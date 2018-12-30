@@ -6,3 +6,4 @@ describe('FilterPipePipe', () => {
     expect(pipe).toBeTruthy();
   });
 });
+
